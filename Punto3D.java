@@ -23,5 +23,5 @@ public class Punto3D extends PuntoTiempo {
     public void multiplicacion() {
     System.out.println(this.getX() * this.getX()*this.gett()*this.z);
     }
-}
+} 
     
